@@ -1,0 +1,4 @@
+Examples of identifiers(this would help us spot and differentiate with each other from a glance) include -variables, constants, keywords, method names
+Inside the variables we have local, instance, class and global
+Instance variables, which serve the purpose of storing information within individual objects, always start with a single at-sign ( @ ) and consist thereafter of the same character set as local variables
+To check for synatx we use -cw i.e ruby index.rb- if syntax is OK then that means your code is up and ready to learn
